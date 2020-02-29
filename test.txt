@@ -1,4 +1,4 @@
-Git Test HEX
+Git Test HEX & Octal
 
 0
 1
@@ -14,5 +14,5 @@ Git Test HEX
 1011
 1100
 1101
-1110
-1111
+016
+017
